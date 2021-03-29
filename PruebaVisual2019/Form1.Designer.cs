@@ -4,6 +4,7 @@ namespace PruebaVisual2019
     partial class Form1
     {
         /// <summary>
+        /// Monse 
         ///  Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;

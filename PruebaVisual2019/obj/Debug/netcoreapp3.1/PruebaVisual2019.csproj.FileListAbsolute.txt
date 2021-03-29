@@ -1,0 +1,16 @@
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\bin\Debug\netcoreapp3.1\PruebaVisual2019.exe
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\bin\Debug\netcoreapp3.1\PruebaVisual2019.deps.json
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\bin\Debug\netcoreapp3.1\PruebaVisual2019.runtimeconfig.json
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\bin\Debug\netcoreapp3.1\PruebaVisual2019.runtimeconfig.dev.json
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\bin\Debug\netcoreapp3.1\PruebaVisual2019.dll
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\bin\Debug\netcoreapp3.1\PruebaVisual2019.pdb
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\obj\Debug\netcoreapp3.1\PruebaVisual2019.csprojAssemblyReference.cache
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\obj\Debug\netcoreapp3.1\PruebaVisual2019.Form1.resources
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\obj\Debug\netcoreapp3.1\PruebaVisual2019.GMCM.resources
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\obj\Debug\netcoreapp3.1\PruebaVisual2019.csproj.GenerateResource.cache
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\obj\Debug\netcoreapp3.1\PruebaVisual2019.AssemblyInfoInputs.cache
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\obj\Debug\netcoreapp3.1\PruebaVisual2019.AssemblyInfo.cs
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\obj\Debug\netcoreapp3.1\PruebaVisual2019.csproj.CoreCompileInputs.cache
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\obj\Debug\netcoreapp3.1\PruebaVisual2019.dll
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\obj\Debug\netcoreapp3.1\PruebaVisual2019.pdb
+D:\Pruebas GIT\PruebaVisual2019\PruebaVisual2019\obj\Debug\netcoreapp3.1\PruebaVisual2019.genruntimeconfig.cache
